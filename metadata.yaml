@@ -1,5 +1,8 @@
 _repo: The-Story-of-the-Airship-Non-rigid-A-Study-of-One-of-America-s-Lesser-Known-Defense-Weapons_51547
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51547-h/images/cover.jpg
 creator:
   author:
     agent_name: Allen, Hugh
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46464'
     url: http://www.gutenberg.org/2009/agents/46464
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51547#The-Story-of-the-Airship-Non-rigid-A-Study-of-One-of-America-s-Lesser-Known-Defense-Weapons
 gutenberg_bookshelf: World War II
 gutenberg_issued: '2016-03-25'
 gutenberg_type: Text
