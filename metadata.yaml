@@ -1,0 +1,27 @@
+_repo: The-Story-of-the-Airship-Non-rigid-A-Study-of-One-of-America-s-Lesser-Known-Defense-Weapons_51547
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Allen, Hugh
+    birthdate: 1882
+    deathdate: 1977
+    gutenberg_agent_id: '46464'
+    url: http://www.gutenberg.org/2009/agents/46464
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2016-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TL'
+- !lcsh 'Military airships -- United States'
+- GITenberg
+title: 'The Story of the Airship (Non-rigid)
+
+  A Study of One of America''s Lesser Known Defense Weapons'
+url: http://www.gutenberg.org/ebooks/51547
